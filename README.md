@@ -4,9 +4,9 @@ ArNext is a NextJS-based framework that lets you deploy the same codebase both o
 
 This allows perma-dApps to have all kinds of cloud-powered parformance optimizations, which was not possible before.
 
-## Limitations of PermaApps
+## Limitations of Perma-dApps
 
-Permaapps are SPAs (single-page applications) deployed on Arweave, which requires complete SSG (static site generation) to build the app before deployment. Permaapps tradittionally allow only client-side hash routing within the SPA due to the lack of server-side routing.
+Perma-dApps are SPAs (single-page applications) deployed on Arweave, which requires complete SSG (static site generation) to build the app before deployment. Permaapps tradittionally allow only client-side hash routing within the SPA due to the lack of server-side routing.
 
 An example permaapp.
 
